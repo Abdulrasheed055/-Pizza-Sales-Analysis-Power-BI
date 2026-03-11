@@ -78,7 +78,10 @@ Key goals:
 
 ---
 
+
 ## 📈 Dashboard Preview
 ![Power BI Dashboard](https://github.com/Abdulrasheed055/-Pizza-Sales-Analysis-Power-BI/blob/main/Screenshot%202025-11-22%20073144.png)
+![Power BI Dashboard](https://github.com/Abdulrasheed055/-Pizza-Sales-Analysis-Power-BI/blob/main/Screenshot%202025-11-22%20073344.png)
+
 
 [View Live Dashboard](https://app.powerbi.com/...)
