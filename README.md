@@ -1,5 +1,3 @@
-# 🍕 Pizza Sales Analysis – SQL & Power BI
-
 Leveraging sales data from SQL Server, this project identifies trends, customer preferences, and areas for improvement to optimize pizza sales performance.
 
 ---
