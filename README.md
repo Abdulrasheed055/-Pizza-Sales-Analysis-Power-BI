@@ -1,7 +1,3 @@
-Leveraging sales data from SQL Server, this project identifies trends, customer preferences, and areas for improvement to optimize pizza sales performance.
-
----
-
 ## 🎯 Project Aim
 The objective of this analysis was to leverage **Power BI** and **SQL Server** to gain actionable insights from pizza sales data.  
 Key goals:  
