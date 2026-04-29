@@ -31,31 +31,31 @@ Key goals:
 
 ---
 
-## 📊 Key Insights & Results
+##  Key Insights & Results
 
-### ✅ Revenue & Sales Performance
+###  Revenue & Sales Performance
 - **Total Revenue:** $817.86K  
 - **Top Revenue Pizza:** Thai Chicken Pizza  
 - **Lowest Revenue Pizza:** Brie Carre Pizza  
 - **Revenue by Category:** Classic > Supreme > Veggie  
 
-### ✅ Top-Selling Pizza Size & Category
+###  Top-Selling Pizza Size & Category
 - **Most Preferred Size:** Large (45% of total sales)  
 - **Highest Revenue Pizza:** Classic Deluxe Pizza  
 
-### ✅ Order Trends & Customer Behavior
+###  Order Trends & Customer Behavior
 - **Busiest Days:** Fridays and Saturdays  
 - **Peak Months:** January, May, July, March  
 - **Average Order Size:** 2–3 pizzas per customer  
 - **Peak Hours:** Evening sales highest  
 
-### ✅ Low-Performing Products
+###  Low-Performing Products
 - **Lowest Sales:** Brie Carre Pizza  
 - **Less Popular Options:** Small-sized and gluten-free pizzas (<10% total sales)  
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 1️⃣ **Boost High-Performing Pizzas & Sizes**  
 - Focus promotions on **Thai Chicken** and **Classic Deluxe Pizzas**.  
