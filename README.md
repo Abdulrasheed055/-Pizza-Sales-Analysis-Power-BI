@@ -1,4 +1,4 @@
-## 🎯 Project Aim
+##  Project Aim
 The objective of this analysis was to leverage **Power BI** and **SQL Server** to gain actionable insights from pizza sales data.  
 Key goals:  
 - Identify sales trends and peak periods  
@@ -8,7 +8,7 @@ Key goals:
 
 ---
 
-## 🔍 Workflow & Process
+##  Workflow & Process
 
 ### 1️⃣ Data Extraction
 - Connected to **SQL Server Management Studio (SSMS)** to extract transactional pizza sales data.  
@@ -71,7 +71,7 @@ Key goals:
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 - **Database & SQL:** SQL Server Management Studio (SSMS)  
 - **Visualization & Dashboarding:** Power BI  
 - **Data Analysis:** KPI calculation, trend analysis, product segmentation, order behavior analysis  
@@ -79,7 +79,7 @@ Key goals:
 ---
 
 
-## 📈 Dashboard Preview
+##  Dashboard Preview
 ![Power BI Dashboard](https://github.com/Abdulrasheed055/-Pizza-Sales-Analysis-Power-BI/blob/main/Screenshot%202025-11-22%20073144.png)
 ![Power BI Dashboard](https://github.com/Abdulrasheed055/-Pizza-Sales-Analysis-Power-BI/blob/main/Screenshot%202025-11-22%20073344.png)
 
